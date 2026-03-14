@@ -1,2 +1,0 @@
-# myportfolio
-I'm Mulwa Mwau — a developer who believes code can build bridges. With 2 years of experience in React, JavaScript, and modern CSS, I focus on writing clean, accessible interfaces for institutes and organizations. I've collaborated on API integrations and data management for small non‑profits, helping them visualise impact.Currently I'm deepening my knowledge of TypeScript and Node.js, aiming to become a more rounded engineer while staying true to social innovation. Outside of coding, I mentor at local coding clubs.
